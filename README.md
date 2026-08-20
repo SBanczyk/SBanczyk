@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Szymon Bańczyk</h1>
 <h3 align="center">Junior .NET & SQL Developer with 1 year of commercial experience.</h3>
 
-- 🔭 I’m currently working as a [.NET & SQL Support Application Developer at OpenSky Data Systems](s)
+- 🔭 I’m currently working as a **.NET & SQL Support Application Developer at OpenSky Data Systems]**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/SBanczyk/](https://github.com/SBanczyk/)
 
