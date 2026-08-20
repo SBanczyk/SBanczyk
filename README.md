@@ -1,12 +1,8 @@
 # Hi 👋, I'm Szymon Bańczyk
 
-## 💫 About Me
+## 💫 About Me<br>I am a **Junior .NET & SQL Support Application Developer** with 1 year of commercial experience.
 
-I am a **Junior .NET & SQL Support Application Developer** with 1 year of commercial experience.
-
-## 💼 My Work History
-
-### **OpenSky Data Systems** | January 2026 - Currently
+## 💼 My Work History<br>**OpenSky Data Systems** | January 2026 - Currently<br>
 - Developing new web application software modules with ASP.NET, Entity Framework and SQL Server for Public Health Sector.
 - Maintaining and modifying existing web application software modules with ASP.NET, Entity Framework and SQL Server for Public Health Sector.
 - Creating and modifying reports and SQL stored procedures for SQL Server Reporting Services.
