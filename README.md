@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Szymon Bańczyk</h1>
-<h3 align="center">Junior .NET & SQL Developer with 1 year of commercial experience.</h3>
+# 💫 About Me:
+I am a Junior .NET & SQL Support Application Developer at OpenSky Data Systems since January 2026.<br>My main responsibilities are:<br>- Developing new web application software modules with ASP.NET, Entity Framework and SQL Server for Public Health Sector.<br>- Maintaining and modifying existing web application software modules with ASP.NET, Entity Framework and SQL Server for Public Health Sector.<br>- Creating and modifying reports and SQL stored procedures for SQL Server Reporting Services.<br>- Creating SQL queries for selecting, updating and deleting data and managing structure of Live / Production database systems.<br>- Writing C# and SQL code with clean code guidelines.<br>- Identyfing and solving software problems reported by international users using Jira and Confluence.<br>- Managing code repository using Git with Bitbucket.<br>- Creating and modifying product technical documentation.<br>- Using GitHub Copilot, Claude Code and other AI tools for assist in software development.
 
-- 🔭 I’m currently working as a **.NET & SQL Support Application Developer at OpenSky Data Systems**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/SBanczyk/](https://github.com/SBanczyk/)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/szymon-banczyk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sbanczyk02@interia.pl) 
 
-- 📫 My email: **sbanczyk02@interia.pl**
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-<h3 align="left">Connect with me on Linkedid:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/szymon-banczyk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/szymon-banczyk/" height="30" width="40" /></a>
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=SBanczyk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
