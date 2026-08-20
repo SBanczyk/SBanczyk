@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Szymon Bańczyk</h1>
 <h3 align="center">Junior .NET & SQL Developer with 1 year of commercial experience.</h3>
 
-- 🔭 I’m currently working as a **.NET & SQL Support Application Developer at OpenSky Data Systems]**
+- 🔭 I’m currently working as a **.NET & SQL Support Application Developer at OpenSky Data Systems**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/SBanczyk/](https://github.com/SBanczyk/)
 
 - 📫 My email: **sbanczyk02@interia.pl**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Linkedid:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/szymon-banczyk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/szymon-banczyk/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/szymon-banczyk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/szymon-banczyk/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
