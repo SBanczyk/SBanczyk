@@ -1,6 +1,6 @@
 # Hi 👋, I'm Szymon Bańczyk
 
-# 💫 About Me:
+## 💫 About Me:
 I am a **Junior .NET & SQL Support Application Developer** with 1 year of commercial experience.
 
 # My work history:
