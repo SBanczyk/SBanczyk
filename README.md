@@ -4,8 +4,8 @@
 I am a **Junior .NET & SQL Support Application Developer** with 1 year of commercial experience.
 
 # My work history:
-**OpenSky Data Systems** | January 2026 - Currently
-## <br>- Developing new web application software modules with ASP.NET, Entity Framework and SQL Server for Public Health Sector.<br>- Maintaining and modifying existing web application software modules with ASP.NET, Entity Framework and SQL Server for Public Health Sector.<br>- Creating and modifying reports and SQL stored procedures for SQL Server Reporting Services.<br>- Creating SQL queries for selecting, updating and deleting data and managing structure of Live / Production database systems.<br>- Writing C# and SQL code with clean code guidelines.<br>- Identyfing and solving software problems reported by international users using Jira and Confluence.<br>- Managing code repository using Git with Bitbucket.<br>- Creating and modifying product technical documentation.<br>- Using GitHub Copilot, Claude Code and other AI tools for assist in software development.
+## **OpenSky Data Systems** | January 2026 - Currently
+- Developing new web application software modules with ASP.NET, Entity Framework and SQL Server for Public Health Sector.<br>- Maintaining and modifying existing web application software modules with ASP.NET, Entity Framework and SQL Server for Public Health Sector.<br>- Creating and modifying reports and SQL stored procedures for SQL Server Reporting Services.<br>- Creating SQL queries for selecting, updating and deleting data and managing structure of Live / Production database systems.<br>- Writing C# and SQL code with clean code guidelines.<br>- Identyfing and solving software problems reported by international users using Jira and Confluence.<br>- Managing code repository using Git with Bitbucket.<br>- Creating and modifying product technical documentation.<br>- Using GitHub Copilot, Claude Code and other AI tools for assist in software development.
 
 
 ## 🌐 Socials:
